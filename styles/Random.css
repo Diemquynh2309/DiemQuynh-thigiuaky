@@ -1,0 +1,19 @@
+#random{
+    color: forestgreen;
+    font-size: 30px;
+}
+#h2{
+    background-color: aquamarine;
+    width: 100%;
+    text-align: center;
+    height: 300px;
+    font-size: 54px;
+    padding-top: 130px;
+    
+}
+#h3 {
+    color: plum;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+ }
